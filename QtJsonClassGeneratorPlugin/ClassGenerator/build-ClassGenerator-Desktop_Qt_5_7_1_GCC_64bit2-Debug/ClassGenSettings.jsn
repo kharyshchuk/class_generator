@@ -1,0 +1,6 @@
+{
+    "commanduncrustify": "/usr/bin/uncrustify",
+    "pathconfiguncrustify": "/home/osboxes/uncrustify.cfg",
+    "savedirectory": "/home/osboxes/ExampleClassScripts/testSettingsFolder",
+    "useuncrustify": true
+}

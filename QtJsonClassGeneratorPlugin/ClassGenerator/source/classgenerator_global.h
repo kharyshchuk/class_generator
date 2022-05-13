@@ -1,0 +1,9 @@
+#pragma once
+
+#include <QtGlobal>
+
+#if defined(CLASSGENERATOR_LIBRARY)
+#  define CLASSGENERATORSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define CLASSGENERATORSHARED_EXPORT Q_DECL_IMPORT
+#endif
